@@ -1,0 +1,7 @@
+pandas
+pyarrow
+numpy
+xmltodict
+streamlit
+streamlit_calendar
+plotly
